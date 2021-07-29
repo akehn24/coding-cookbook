@@ -1,0 +1,151 @@
+BBCode Cheat Sheet
+
+[b]This text is bold![/b]
+
+[i]This text is italicized![/i]
+
+[u]This text is underlined![/u]
+
+[s]This text has been struck through![/s]
+
+[indent]This entire paragraph is indented!
+The whole thing![/indent]
+
+[left] This text is aligned to the left side of the post![/left]
+[center] This text is centered![/center]
+[right] This text is aligned to the right side of the post![/right]
+
+[url=https://www.google.com/]If you click this text, it will take you to the Google homepage![/url]
+
+[img]https://cdn.dribbble.com/users/60166/screenshots/12018819/media/61f4e36108078f66d0ee007a37ca3880.jpg?compress=1&resize=400x300[/img]
+
+[LIST=1]
+[*] This is the first list item
+[*] This is the second list item
+[*] This is the third list item
+[/LIST]
+
+[LIST]
+[*] This is a list item
+[*] This is another list item
+[*] This is yet another one
+[/LIST]
+
+[quote]This is a quote![/quote]
+[quote=EldritchCrowe]This is a quote that EldritchCrowe said![/quote]
+[quote name=EldritchCrowe date=2017-07-15 19:51:06]reserved[/quote]
+
+[color=red] This text is red![/color]
+[color=b819d1] This text is the color #b819d1![/color]
+[color=transparent] This text is transparent! You'll have to highlight it to see it.[/color]
+
+[size=0] This text is small![/size]
+[size=4] This text is medium-sized![/size]
+[size=7] This text is big![/size]
+
+[rule] This text has dividers above and below it! -----
+
+[columns] 
+This text is in column #1!
+This text is in column #1!
+This text is in column #1!
+
+[nextcol] 
+This text is in column #2!
+This text is in column #2!
+This text is in column #2!
+
+[nextcol] 
+This text is in column #3!
+This text is in column #3!
+This text is in column #3!
+[/columns]
+
+
+Columns Top Aligned - spaces take up space!
+[columns]
+Column 1
+
+
+
+[nextcol]
+Column 2
+Column 2
+Column 2
+Column 2
+[nextcol]
+Column 3
+Column 3
+
+
+[/columns]
+
+
+Nesting Columns
+[columns]
+[columns]
+[img]http://www1.flightrising.com/rendern/portraits/335688/33568767p.png[/img]
+[nextcol]
+[color=transparent]_______________[/color]
+Dragon name
+Dragon role
+[/columns]
+-----
+[columns]
+[color=transparent]______________[/color]
++ Trait 1
++ Trait 2
+
+[nextcol]
+[color=transparent]______________[/color]
+- Trait 3
+- Trait 4
+
+[/columns]
+[nextcol]
+-- Filler text goes here! --
+
+[/columns]
+
+
+-----
+
+Color Tools:
+[url=https://www.stuffbydavid.com/textcolorizer]Text Colorizer - can make gradients![/url]
+[url=http://patorjk.com/text-color-fader/]Text Color Fader (use Output: Standard Forum Code)[/url]
+
+-----
+Flight Rising Specific:
+
+Regular Sized Image:
+[img]http://flightrising.com/rendern/350/325407/32540614_350.png[/img]
+Resized Tiny Image:
+[img]http://flightrising.com/rendern/avatars/325407/32540614.png[/img]
+The first '350' is changed to 'avatars' and the '_350' is removed. (Also remove the extra stuff after .png)
+-----
+FR Images and Links
+[item=White Quinoa]
+[item=Skin: Crowned Bone Priest]
+[item=Accent: Shadow Within]
+[skin=8956] (hover over the image to see the item id)
+[outfit=104626] (dressing room - button next to 'Widget')
+-----
+Dragon Frame:
+[quote=Dragon Name][columns]
+[url=http://flightrising.com/main.php?dragon=24082901]
+[img]http://flightrising.com/rendern/350/240830/24082901_350.png[/img]
+[/url]
+-----
+[nextcol][center][color=transparent]___________________________
+[color=purple][b][size=5]Dragon Name[/size]
+[size=4]Lv. ## Female Derg
+<more info>[/center]
+-----
+[center][b]
+Color Primary
+Color Secondary
+Color Tertiary
+-----
+[b]Price:
+[img]http://www1.flightrising.com/static/layout/icon_treasure.png[/img][b]: 999,999,999,999,999
+[img]http://www1.flightrising.com/static/layout/icon_gems.png[/img][b]: 999,999,999,999,999[/b][/quote]
