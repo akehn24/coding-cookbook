@@ -32,7 +32,13 @@ From Dev_Dungeon:
 * HTTPs / TCP / Networking "stuff"
 * Kubernetes
 * Go
-* AWS
+* AWS info
+* Bash
+* PHP
+* Command Line
+    * Bash Scripting
+    * DOS
+    * Shell Scripting
 * Data Structures (per language)
 * Sorting Algorithms (per language)
 * Programming Fundamentals (their own directories implemented in multiple languages)
